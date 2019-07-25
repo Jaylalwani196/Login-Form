@@ -1,0 +1,62 @@
+form {
+  border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+button {
+  background-color: #2222DE;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+
+  cursor: pointer;
+  width: 20%;
+  
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+
+.backbtn {
+  width: 400px;
+  height: 10%
+  float: center;
+  padding: 10px 18px;
+  background-color: #1111FF;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+
+img.wordpress {
+  width: 10%;
+  border-radius: 10%;
+}
+
+
+.container {
+  padding: 16px;
+}
+
+
+span.passwordMade {
+  float: right;
+  padding-top: 16px;
+}
